@@ -1,4 +1,4 @@
-const errors = {
+module.exports = {
   internalServerError:
     'Oh No! The server encountered an error and could not complete your request. If the problemt persists, please report your problem to the system administrator.',
   badRequest:
@@ -6,5 +6,3 @@ const errors = {
   unauthorizedAccess:
     'Unauthorized! It appears that you do are not authorize to perform this action.',
 };
-
-export default errors;

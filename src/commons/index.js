@@ -1,3 +1,1 @@
-const commons = { common: 'yes' };
-
-export default commons;
+module.exports = {};
