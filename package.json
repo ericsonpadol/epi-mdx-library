@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "description": "Express Pay Markdown Library",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest"
   },
