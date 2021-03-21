@@ -1,3 +1,1 @@
-const copywrites = {};
-
-export default copywrites;
+module.exports = {};
